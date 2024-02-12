@@ -124,7 +124,6 @@ def upload(request):
         requirements = request.POST['requirements']
         content = request.POST['content']
         category = request.POST['category']
-
         lesson_title = request.POST['lesson_title']
 
 
